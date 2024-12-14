@@ -41,12 +41,12 @@
              <div class="col-xl-5 col-lg-5 col-md-5 col-sm-5">
                 <!-- Login and Registration Section -->
                 <div class="auth_section d-flex justify-content-end align-items-center">
-                    <a href="#" class="auth_btn login_btn">
+                    <a href="{{url('/login')}}" class="auth_btn login_btn">
                        <i class="fa fa-user" aria-hidden="true"></i>
                        Login
                     </a>
-                    <a href="#" class="auth_btn register_btn ml-3">
-                       <i class="fa fa-user-plus" aria-hidden="true"></i>
+                    <a href="{{url('/register')}}" class="auth_btn register_btn ml-3">
+                       <i class="fa fa-vcard" aria-hidden="true"></i>
                        Register
                     </a>
                  </div>
