@@ -297,6 +297,55 @@ ul.btn li:last-child {
 }
 
 
+/* Header Layout for Login & Register Section */
+.auth_section {
+    display: flex;
+    align-items: center;
+}
+
+.auth_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1824;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 4px 5px;
+    border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+}
+
+.auth_btn i {
+    margin-right: 8px;
+}
+
+.auth_btn:hover {
+    background-color: #bc1939;
+    color: #fff;
+    text-decoration: none;
+}
+
+.login_btn {
+    background-color: #fefeff;
+}
+
+.register_btn {
+    background-color: #ffffff;
+}
+
+.register_btn:hover {
+    background-color: #bc1939;
+    color: #fff;
+}
+
+/* Adjust spacing between Login and Register buttons */
+.auth_section .ml-3 {
+    margin-left: 15px !important;
+}
+
+
 /*-- header area --*/
 
 
