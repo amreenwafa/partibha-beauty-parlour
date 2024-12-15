@@ -12,9 +12,9 @@
                    <div class="row">
                       <div class="col-md-6">
                          <div class="text-bg">
-                            <span>Welcome to our</span>
-                            <h1>Parlour</h1>
-                            <p>We specialize in bridal makeup tailored to your preferences. Our categories include Nude Makeup for a natural look, Light Makeup for subtle elegance, Glamorous Makeup for a bold appearance, and Traditional Makeup for a classic touch. Each style is designed to make your special day unforgettable.</p>
+                            <span>Welcome to Pratibha</span>
+                            <h1>Beauty</h1>
+                            <p>In our parlour we specialize in bridal makeup tailored to your preferences. Our categories include Nude Makeup for a natural look, Light Makeup for subtle elegance, Glamorous Makeup for a bold appearance, and Traditional Makeup for a classic touch. Each style is designed to make your special day unforgettable.</p>
                             <a href="#">Read More </a> <a href="#">Book Now</a>
                          </div>
                       </div>
