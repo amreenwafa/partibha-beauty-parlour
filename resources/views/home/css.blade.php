@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
 <link rel="stylesheet" href="{{ asset('css/jquery.mCustomScrollbar.min.css') }}">
-<link rel="icon" href="{{ asset('images/fevicon.png') }}" type="image/gif" />
+<link rel="icon" href="{{ asset('images/fevicon.png')}}" type="image/gif" />
 
 <!-- External CSS -->
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
